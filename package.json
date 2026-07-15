@@ -1,0 +1,16 @@
+{
+  "name": "mow-bros-website",
+  "version": "1.0.0",
+  "description": "The Mow Bro's - Professional Lawn Care & Mowing Services",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "keywords": [
+    "lawn-care",
+    "mowing",
+    "landscaping"
+  ],
+  "author": "The Mow Bro's",
+  "license": "MIT"
+}

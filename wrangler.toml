@@ -1,7 +1,6 @@
 name = "mow-bros-website"
-type = "javascript"
 main = "src/index.js"
 compatibility_date = "2026-07-15"
 
-[env.production]
-name = "mow-bros-website-prod"
+[build]
+command = "echo 'No build step needed'"
